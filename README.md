@@ -16,7 +16,7 @@ It has different sheets to manage your inventory, such as:
 
 * **Dashboard** – Simple summary with total stock, sales, and visual charts (if available).
 
-**✅ Features**
+**✅ Features** :
 * Add, update, and delete product details
   
 * Manage incoming and outgoing stock
@@ -29,7 +29,7 @@ It has different sheets to manage your inventory, such as:
 
 Built using Excel formulas, dropdowns, and tables
 
-**📌 How to Use**
+**📌 How to Use** :
 * Open the Excel file.
 
 * Go to the **Product List** sheet and add your items.
@@ -44,7 +44,8 @@ Built using Excel formulas, dropdowns, and tables
 
 No coding is needed. Everything works with Excel formulas and formatting.
 
-**🛠 Requirements**
-Microsoft Excel (2016 or newer is better)
+**🛠 Requirements** :
 
-Basic Excel knowledge
+* Microsoft Excel (2016 or newer is better)
+
+* Basic Excel knowledge
