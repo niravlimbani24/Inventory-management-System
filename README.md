@@ -2,6 +2,25 @@
 
 This is an Inventory Management System made in Microsoft Excel. It helps small businesses or shops to keep track of products, stock, and sales easily.
 
+📊 Sheet Breakdown:
+Dashboard – Likely a summary view (currently empty in preview).
+
+Customers – Stores customer details (ID, Name, Email, Address).
+
+Products – Contains product data (HSN Code, Name, Cost, Selling Price).
+
+Vendors – Lists vendor information (Name, Phone, Address, associated products).
+
+New Entry – Possibly a placeholder or under development.
+
+Purchase – Logs purchase details (product, vendor, date, cost, units).
+
+Sales – Tracks sales transactions (customer, product, units, price).
+
+Inventory – Maintains stock levels and valuation.
+
+Pivot – Dashboard-like summary using pivot tables.
+
 # 📦 Inventory Management System (Excel-Based)
 
 An Excel-powered Inventory Management System designed for small businesses to manage purchases, sales, stock, and customer/vendor details—without needing any complex software.
