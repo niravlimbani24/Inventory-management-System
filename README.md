@@ -2,50 +2,41 @@
 
 This is an Inventory Management System made in Microsoft Excel. It helps small businesses or shops to keep track of products, stock, and sales easily.
 
-**📁 File Details**
-Filename: Inventory Management System.xlsx
-It has different sheets to manage your inventory, such as:
+# 📦 Inventory Management System (Excel-Based)
 
-* **Product List** – All the items with product names, codes, categories, and prices.
+An Excel-powered Inventory Management System designed for small businesses to manage purchases, sales, stock, and customer/vendor details—without needing any complex software.
 
-* **Stock In** – Add new stock to your products.
+## 🔧 Features
 
-* **Stock Out / Sales** – Record when products are sold or removed.
-
-* **Inventory Summary** – Check how many items are left, sold, or need to be restocked.
-
-* **Dashboard** – Simple summary with total stock, sales, and visual charts (if available).
-
-**✅ Features** :
-* Add, update, and delete product details
+- 🧾 **Customer Management** – Store and manage customer information.
+- 📦 **Product Catalog** – Add and update products with cost & selling price.
+- 🛒 **Vendor Database** – Keep track of vendors and their offerings.
+- 📈 **Sales & Purchases** – Log daily transactions with automatic totals.
+- 📦 **Inventory Tracking** – Real-time stock levels and inventory value.
+- 📊 **Pivot Dashboard** – At-a-glance summary of key metrics.
   
-* Manage incoming and outgoing stock
- 
-* Auto calculation of available stock
+## 📁 Excel Sheets Overview
 
-* Track product performance and sales
+| Sheet Name   | Description                              |
+|-------------|------------------------------------------|
+| `Dashboard`  | High-level metrics and data visualization |
+| `Customers`  | Customer details (ID, Name, Email, Address) |
+| `Products`   | Product information (HSN, Cost, Price)    |
+| `Vendors`    | Vendor info with linked products          |
+| `Purchase`   | Records of incoming inventory             |
+| `Sales`      | Outgoing sales with revenue details       |
+| `Inventory`  | Current stock, cost, and alerts           |
+| `Pivot`      | Aggregated summaries and charts           |
 
-* Easy to use and edit
+## 🖥️ How to Use
 
-Built using Excel formulas, dropdowns, and tables
+1. Download and open the Excel file.
+2. Begin by entering your customer and product data.
+3. Record purchases and sales as they occur.
+4. Check the `Inventory` and `Pivot` sheets to monitor performance.
 
-**📌 How to Use** :
-* Open the Excel file.
+## 📌 Requirements
 
-* Go to the **Product List** sheet and add your items.
+- Microsoft Excel (recommended: 2016 or later)
 
-* In **Stock In**, enter new stock entries.
-
-* In **Stock Out**, enter sales or items removed.
-
-* Check **Inventory Summary** to see current stock.
-
-* Use the **Dashboard** to see quick reports.
-
-No coding is needed. Everything works with Excel formulas and formatting.
-
-**🛠 Requirements** :
-
-* Microsoft Excel (2016 or newer is better)
-
-* Basic Excel knowledge
+- Basic Excel knowledge
